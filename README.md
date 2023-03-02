@@ -1,0 +1,1 @@
+# Hash-Generator-SHA-256-Bash
